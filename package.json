@@ -1,0 +1,28 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "portfolio-generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioviana07/portfolio-generator.git"
+  },
+  "keywords": [
+    "\"portfolio\"",
+    "\"generator\"",
+    "\"node\""
+  ],
+  "author": "\"Mario\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioviana07/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/marioviana07/portfolio-generator#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "inquirer": "^7.3.3"
+  }
+}
